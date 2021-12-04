@@ -1,0 +1,51 @@
+body .container img {
+  width: 100px;
+  height: 70px;
+  border-radius: 15px;
+}
+.bg1 {
+  background: linear-gradient(
+      to bottom,
+      rgba(152, 151, 151, 0.74) 0%,
+      rgba(152, 151, 151, 0.74) 100%
+    ),
+    url(../assets/img/ism.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.bgg1 {
+  background: linear-gradient(
+      to bottom,
+      rgba(129, 128, 126, 0.493) 0%,
+      rgba(150, 135, 120, 0.521) 100%
+    ),
+    url("../assets/img/tabarro.jpg");
+  background-size: 100% 100%;
+}
+.mb-2 {
+  margin-right: 1.5rem !important;
+}
+.amqur {
+  font-size: 3rem;
+  color: rgba(57, 57, 167, 0.767);
+}
+.bi-bookmark-check-fill {
+  color: rgba(50, 42, 122, 0.884);
+}
+.btn:hover {
+  color: #212529;
+}
+.btn1:hover {
+  color: rgb(110, 90, 221);
+  box-shadow: 5px 5px 5px rgb(84, 13, 141);
+}
+.button .btn {
+  color: rgba(50, 42, 122, 0.884);
+}
+.wx {
+  width: 100.66%;
+  margin-bottom: -2rem !important;
+  text-align: center;
+}
